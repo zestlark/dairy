@@ -1,0 +1,8 @@
+{
+  "name": "dairy",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "8654f564"
+}
